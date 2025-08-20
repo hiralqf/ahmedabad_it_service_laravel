@@ -1,0 +1,35 @@
+
+
+@media only screen and (min-width: 576px){
+    .dataTables_filter{margin-right: 1.5rem !important;}
+}
+.logoVertical{
+  /* width: 165px; */
+  width: 100%;
+  height:100%;
+
+}
+#app-brand-logo{
+  width: 100%;
+  /* height: 100%; */
+  height: 90px;
+  justify-content: start;
+}
+tbody{
+  font-size: 13px;
+}
+.event-banner img{
+  width: 100%;
+  object-fit: cover;
+  height: 230px
+}
+#profile-img{
+  width: 100px;
+  height: 100px !important;
+  object-fit: cover;
+}
+/* kaushal */
+  
+.d-none {
+  display: none !important;
+}

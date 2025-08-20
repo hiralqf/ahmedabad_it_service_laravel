@@ -1,0 +1,31 @@
+{
+  "menu": [
+    {
+      "name": "Home",
+      "url": "/dashboard",
+      "icon": "menu-icon tf-icons ti ti-smart-home",
+      "slug": "dashboard"
+    },
+    {
+      "name": "Category",
+      "url": "/category",
+      "icon": "menu-icon tf-icons ti ti-category",
+      "slug": "category"
+    }
+    ,
+    {
+      "name": "Products",
+      "url": "/products",
+      "icon": "menu-icon tf-icons ti ti-package",
+      "slug": "products"
+    }
+    ,
+  
+    {
+      "name": "inquery box",
+      "url": "/contactshow",
+      "icon": "menu-icon tf-icons ti ti-mail",
+      "slug": "inquery box"
+    }
+  ]
+}
